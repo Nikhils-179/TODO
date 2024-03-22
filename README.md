@@ -12,7 +12,7 @@ USED ORM Technique which is " Technique that allows developers to work with rela
 using object oriented paradigm "
 It defines Sql queries / way to provide database interaction
 
-Same objective I have used by importing necesaary sql packages and driver but at the actual usage we use :
+Same objective I have used by importing necesaary sql packages in TODO Yellow and driver but at the actual usage we use :
 "gorm.io/driver/sqlite"
 "gorm.io/gorm"
 
