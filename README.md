@@ -16,3 +16,4 @@ Same objective I have used by importing necesaary sql packages in TODO Yellow an
 "gorm.io/driver/sqlite"
 "gorm.io/gorm"
 
+IN TODO_GREEN Windows user might get issue while running the program as CG0_ENABLED .... , To fix the issue download gcc complier and run. 
