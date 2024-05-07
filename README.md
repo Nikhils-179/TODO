@@ -1,7 +1,7 @@
 Statement : A TODO Application stores information about the task : Title and Description of the activity
 
 Approach : Work on a framework which will take web api calls from frontend and store it in database
-           Protocol to be used : HTTP
+           Protocol to be used : HTTP protocol
            Language used : GO
            Web Framework : GIN
 
